@@ -14,3 +14,16 @@ margin: 0 ;
 header{background-color: var(--primary-color);
     text-align: center;
 }
+h1{
+    font-size: 2rem;
+    color: var(--bg-color);
+    font-weight: 700;
+}
+nav{
+    display: center;
+    justify-content: center;
+    font-weight: 400;
+}
+nav a {
+    text-decoration: none;
+}
